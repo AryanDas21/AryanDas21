@@ -10,5 +10,5 @@ Welcome to my GitHub profile. This is where I'll be hosting my university projec
 - 🚀 Exploring different domains like Web Development and Data Structures.
 
 ### 🌐 Connect with me:
-- **LinkedIn:** www.linkedin.com/in/aryandas-kiit
 - **Email:** aryandas153@gmail.com
+- **LinkedIn:** www.linkedin.com/in/aryandas-kiit
