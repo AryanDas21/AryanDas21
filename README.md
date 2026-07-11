@@ -1,6 +1,6 @@
 # Hello World, I'm Aryan Das 👋🏽
 
-I am a **Computer Science and Engineering (CSE) Undergraduate** at **KIIT University**. 
+I am a first-year **Computer Science and Engineering (CSE) Undergraduate** at **KIIT University ('30)**.
 
 Welcome to my GitHub profile. This is where I'll be hosting my personal projects and experiments as I journey through my B.Tech degree.
 
